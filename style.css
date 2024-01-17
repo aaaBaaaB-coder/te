@@ -1,0 +1,15 @@
+.content-para{
+    
+    left: -5px;
+    top: 13px;
+    position: relative;
+    color: red;
+}
+#frame-1{
+    overflow: hidden;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    margin-bottom: 1rem;
+}
